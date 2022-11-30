@@ -5,7 +5,7 @@
 - I'm Ngonidzashe Brandon Towindo ***(AKA Ngoni19)***, a Zimbabwean by birth and nationality.
 - l am a Mechatronics Engineer graduate, who is currently doing **ALX Holberton Software Engineering** with the aim of gaining skills as a **full stack web developer**
 - I have experience working with embedded **C/C++ programming**. Also currently getting experience in **Python** and **SQL** backend technologies.
-- I am an objective orianted individual, who works smart to achieve results while working together with collaborators to achieve a common goal.
+- I am an objective oriented individual, who works smart to achieve results while working together with collaborators to achieve a common goal.
 
 ## Ways to connect with me 🤝:
 
@@ -20,7 +20,7 @@ Review my resume to know more [here](https://docs.google.com/document/d/1fz_ti8H
 ## Finally!
 #### `l am open for job opportunities!`
 #### `Location` : _Remote_ or _on site_
-#### `Type`: _internship and graduate trainee_
+#### `Type`: _Internship and Graduate trainee_
 #### CATEGORIES:
 - Junior Software Engineering
 - Fullstack Web Development
