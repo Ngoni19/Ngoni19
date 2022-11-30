@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there 👋! Welcome to my page😎
 
-<!--
-**Ngoni19/Ngoni19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who Am I
 
-Here are some ideas to get you started:
+- I'm Ngonidzashe Brandon Towindo ***(AKA Ngoni19)***, a Zimbabwean by birth and nationality.
+- l am a Mechatronics Engineer graduate, who is currently doing **ALX Holberton Software Engineering** with the aim of gaining skills as a **full stack web developer**
+- I have experience working with embedded **C/C++ programming**. Also currently getting experience in **Python** and **SQL** backend technologies.
+- I am an objective orianted individual, who works smart to achieve results while working together with collaborators to achieve a common goal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ways to connect with me 🤝:
+
+<a href = "www.linkedin.com/in/ngonidzashe-brandon-towindo-53647411b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
+<a href = "https://wa.me/+263776264077"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"></a>
+
+## My Resume 
+Review my resume to know more [here](https://docs.google.com/document/d/1fz_ti8Hu2lvTzU45fk1H0YFaGU8HzD3a/edit?usp=sharing&ouid=107068601101246889469&rtpof=true&sd=true).
+
+### Checkout my repositories to see my work 😎🐱‍🏍🐱‍👤
+
+## Finally!
+#### `l am open for job opportunities!`
+#### `Location` : _Remote_ or _on site_
+#### `Type`: _internship and graduate trainee_
+#### CATEGORIES:
+- Junior Software Engineering
+- Fullstack Web Development
+
+
+### Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ngoni19&theme=highcontrast)](https://git.io/streak-stats)
+ <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Ngoni19's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngoni19&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&bg_color=0A524E" /></a>
+![Ngoni19's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngoni19&show_icons=true&theme=highcontrast)
+<br>
