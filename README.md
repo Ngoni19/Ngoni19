@@ -9,7 +9,7 @@
 
 ## Ways to connect with me 🤝:
 
-<a href = "www.linkedin.com/in/ngonidzashe-brandon-towindo-53647411b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
+<a href = "www.linkedin.com/in/n-b-towindo/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 <a href = "https://wa.me/+263776264077"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"></a>
 <a href = "https://github.com/Ngoni19"><img src="https://img.icons8.com/fluent/48/000000/github.png"></a>
 
